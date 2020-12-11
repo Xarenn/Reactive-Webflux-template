@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "server",
+      "type": "com.template.reactive.security.properties.SecurityProperties",
+      "sourceType": "com.template.reactive.security.properties.SecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "server.access-token-validity",
+      "type": "java.lang.Integer",
+      "sourceType": "com.template.reactive.security.properties.SecurityProperties"
+    },
+    {
+      "name": "server.admin-login",
+      "type": "java.lang.String",
+      "sourceType": "com.template.reactive.security.properties.SecurityProperties"
+    },
+    {
+      "name": "server.admin-password",
+      "type": "java.lang.String",
+      "sourceType": "com.template.reactive.security.properties.SecurityProperties"
+    },
+    {
+      "name": "server.signing-key",
+      "type": "java.lang.String",
+      "sourceType": "com.template.reactive.security.properties.SecurityProperties"
+    }
+  ],
+  "hints": []
+}
