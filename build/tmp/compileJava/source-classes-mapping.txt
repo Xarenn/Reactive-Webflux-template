@@ -5,6 +5,7 @@ com/template/reactive/security/jwt/TokenProvider.java
  com.template.reactive.security.jwt.TokenProvider
 com/template/reactive/domain/dto/TestDTO.java
  com.template.reactive.domain.dto.TestDTO
+ com.template.reactive.domain.dto.TestDTO$TestDTOBuilder
 com/template/reactive/security/jwt/JwtUtil.java
  com.template.reactive.security.jwt.JwtUtil
 com/template/reactive/exceptions/handler/ExceptionHandler.java

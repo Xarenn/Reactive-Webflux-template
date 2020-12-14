@@ -23,7 +23,7 @@ public class AuthenticationManager implements ReactiveAuthenticationManager {
 
     @Override
     public Mono authenticate(Authentication authentication) {
-        String authToken = authentication.getCredentials().toString();
+        final String authToken = authentication.getCredentials().toString();
         String username;
         try {
             username = tokenProvider.getSubjectFromToken(authToken);
