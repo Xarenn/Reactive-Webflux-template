@@ -5,7 +5,7 @@ Simple template for webflux including Exception handling Mono/Flux JWT-Authoriza
 
 vavr :white_check_mark:
 
-exception handling - higher functions :white_check_mark:
+exception handling - high order functions :white_check_mark:
 
 reactive tests :white_check_mark:
 
