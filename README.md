@@ -3,4 +3,4 @@ Simple template for webflux including Exception handling Mono/Flux JWT-Authoriza
 
 ~ 1.7 - 3.2 s to run
 
-reactive tests - soon
+reactive tests :thumbsup:
