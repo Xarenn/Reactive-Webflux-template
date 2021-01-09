@@ -32,3 +32,15 @@ com/template/reactive/domain/Test.java
  com.template.reactive.domain.Test
 com/template/reactive/security/AuthenticationManager.java
  com.template.reactive.security.AuthenticationManager
+com/template/reactive/query/Query.java
+ com.template.reactive.query.Query
+com/template/reactive/service/filter/test/StringFilter.java
+ com.template.reactive.service.filter.test.StringFilter
+com/template/reactive/service/TestService.java
+ com.template.reactive.service.TestService
+com/template/reactive/service/filter/Filter.java
+ com.template.reactive.service.filter.Filter
+com/template/reactive/service/filter/test/TestFilter.java
+ com.template.reactive.service.filter.test.TestFilter
+com/template/reactive/query/manager/QueryManager.java
+ com.template.reactive.query.manager.QueryManager

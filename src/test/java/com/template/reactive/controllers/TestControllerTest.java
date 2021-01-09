@@ -1,8 +1,8 @@
-package com.template.reactive;
+package com.template.reactive.controllers;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.core.io.JsonEOFException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.template.reactive.WebFluxTestConfigurer;
 import com.template.reactive.controllers.TestController;
 import com.template.reactive.domain.dto.TestDTO;
 import org.junit.jupiter.api.Test;
@@ -23,7 +23,6 @@ import java.util.Arrays;
 import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.assertj.core.api.InstanceOfAssertFactories.map;
 
 
 @ExtendWith(SpringExtension.class)
