@@ -3,4 +3,20 @@ Simple template for webflux including Exception handling Mono/Flux JWT-Authoriza
 
 ~ 1.7 - 3.2 s to run
 
-reactive tests - soon
+vavr :white_check_mark:
+
+exception handling - high order functions :white_check_mark:
+
+reactive tests :white_check_mark:
+
+functional endpoints :white_check_mark:
+
+### soon:
+
+postgres/mongo :x:
+
+cache :x:
+
+quartz :x:
+
+better-auth :x:
